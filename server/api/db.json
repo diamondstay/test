@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "Phan Bảo Khôi thom",
+      "age": 2,
+      "address": "Thanh Trì - Hà Nội",
+      "gender": "male",
+      "id": 6
+    },
+    {
+      "name": "Nguyễn Minh Trang",
+      "age": 21,
+      "address": "Hoàng Mai - Hà Nội",
+      "gender": "female",
+      "id": 7
+    },
+    {
+      "name": "nam 26",
+      "age": 23,
+      "address": "bac ninh",
+      "gender": "male",
+      "id": 8
+    },
+    {
+      "name": "Nguyễn Diệu Ly 2003",
+      "age": 18,
+      "address": "Đông Mỹ, Thanh Trì",
+      "gender": "female",
+      "id": 9
+    },
+    {
+      "name": "nam",
+      "age": 22,
+      "address": "số 1 thái hà, đống đa",
+      "gender": "male",
+      "id": 10
+    },
+    {
+      "name": "Nguyễn Diệu Ly 2003.",
+      "age": 19,
+      "address": "Đông Mỹ, Thanh Trì",
+      "gender": "female",
+      "id": 11
+    },
+    {
+      "name": "phan",
+      "age": 22,
+      "address": "Đông Mỹ, Thanh Trì",
+      "gender": "male",
+      "id": 12
+    },
+    {
+      "name": "Nguyễn Diệu Ly 2002",
+      "age": 12,
+      "address": "Đông Mỹ, Thanh Trì",
+      "gender": "female",
+      "id": 13
+    },
+    {
+      "name": "Nam Phan1",
+      "age": 26,
+      "address": "London Park no. 6",
+      "gender": "male",
+      "id": 14
+    }
+  ]
+}
